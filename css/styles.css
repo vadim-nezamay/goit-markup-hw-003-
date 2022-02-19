@@ -13,6 +13,9 @@
   .list { list-style: none;
   color: var(--text-black-color);
   }
+  .section-list{
+    display: flex;
+  }
   .hsm{
     color: #212121;
 
@@ -138,7 +141,7 @@
   
   
   /*Подразумевается заголовок Преимущества*/
-  
+  .main-list{display: flex;}
   .project {
     margin: 0;
     font-family: Roboto;
@@ -176,6 +179,9 @@
   }
   
   /* Команда*/
+  .work-list{
+    display: flex;
+  }
   .my-com{
     background: #F5F4FA;
   }
