@@ -28,6 +28,8 @@
 
   width: 1200px;
   }
+  .img-list{ display: flex;
+  flex-wrap: wrap;}
   .link {
     text-decoration: none;}
   /*Menu Nav Верхняя линия*/
@@ -263,6 +265,7 @@
     color: rgba(255, 255, 255, 0.6);
   }
   /*Подразумевается заголовок h1 Проекты*/
+  .button-list{display: flex;}
   .it-button
   {background: #2196f3;
     color: var(--text-white-color);
