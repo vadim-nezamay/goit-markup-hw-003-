@@ -37,6 +37,7 @@
     display: flex;
   }
   .web {
+    margin-left: 215px;
     color: #2196f3;
     font-family: Raleway;
     font-style: normal;
@@ -68,10 +69,11 @@
     display: flex;
   }
   .contact-list{
+    margin-left: auto;
     display: flex;
   }
   .mi-head{
-  
+  margin-left: 93px;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -83,6 +85,7 @@
   
   }
   .my-head {
+    margin-left: 50px;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -104,6 +107,7 @@
   
   }
   .contact {
+    margin-left: 50px;
    color: var(--text-grey-color);
     font-style: normal;
   font-weight: 500;
