@@ -31,6 +31,9 @@
   .link {
     text-decoration: none;}
   /*Menu Nav Верхняя линия*/
+  .nav-site{
+    display: flex;
+  }
   .web {
     color: #2196f3;
     font-family: Raleway;
@@ -58,6 +61,12 @@
     font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+  }
+  .site-list{
+    display: flex;
+  }
+  .contact-list{
+    display: flex;
   }
   .mi-head{
   
