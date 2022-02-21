@@ -28,7 +28,7 @@
     padding-left: 15px;
     padding-right: 15px;
   
-    width: 1200px;
+    width: 1600px;
     outline: 2px solid tomato;
 
 }
@@ -292,6 +292,10 @@
     color: rgba(255, 255, 255, 0.6);
   }
   /*Подразумевается заголовок h1 Проекты*/
+  .button{display: inline-block;
+    padding: 6px 22px;
+    border-radius: 4px;
+    border: none;}
   .button-list{display: flex;justify-content: center;}
   .it-button
   {background: #2196f3;
@@ -309,11 +313,12 @@
     background: #2196F3;
   border-radius: 4px;
   }
-  /*Подразумевается заголовок h1 Проекты*/
-  .img-it{ widows: 1600px;
+  /*Подразумевается заголовок h1 Проекты*/ 
+  .my-img{margin-left: 30px;}
+  .img-it{ width: 100%;
   display: flex;
 flex-wrap: wrap;
-padding-left: 0;
+
 
 }
 
