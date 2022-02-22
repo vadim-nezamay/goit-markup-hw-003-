@@ -23,20 +23,17 @@
 
   }
   .container{
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+   
   
-    width: 1600px;
+    width: 1200px;
     outline: 2px solid tomato;
 
 }
 
   
   /*Menu Nav Верхняя линия*/
-  .my-header{
-   width: 1250px;
+  .header{
+
     margin-top: 35px;
     justify-content: space-between;
     display: flex;
@@ -120,6 +117,9 @@
   line-height: 16px;
   letter-spacing: 0.02em;
   
+  }
+  .contact:first-child{margin-right: 0;
+
   }
   .contact{
 
@@ -319,7 +319,7 @@
   .img-it{ width: 100%;
   display: flex;
 flex-wrap: wrap;
-
+padding: 0;
 
 }
 
