@@ -42,8 +42,10 @@
   }
   .nav-site{
     display: flex;
+    align-items: center;
   }
   .web {
+    text-align: center;
     margin-left: 215px;
     color: #2196f3;
     font-family: Raleway;
@@ -55,6 +57,7 @@
     letter-spacing: 0.03em;
   }
   .my-web {
+    text-align: center;
     color: var(--text-black-color);
     font-family: Raleway;
     font-style: normal;
@@ -118,9 +121,10 @@
   letter-spacing: 0.02em;
   
   }
-  .contact:first-child{margin-right: 0;
+  .contact:last-child{margin-right: 32px;
 
   }
+  
   .contact{
 
     margin-right: 50px;
